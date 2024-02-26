@@ -1,0 +1,43 @@
+
+
+body {
+    background-color: #fbcb14;
+}
+#topo{
+    clear:initial ;
+    text-align:center ;
+    padding: 35px;
+    background:#fbcb14;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+
+}
+.cl{
+    padding: 40px 300px;
+}
+img{
+        width: 650px;
+        height: 400px;
+        padding: 0px 30pxx 30px 30px;
+        
+}
+h1{
+    color: brown;
+    align-items: center;
+    text-align: center;
+}
+p{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(3, 3, 3);
+    text-align: center;
+}
+#rodape{
+    clear: both;
+    text-align: center;
+    padding: 15px;
+    background: #fbcb14;
+}
+p a:hover{
+    color: red;
+}
